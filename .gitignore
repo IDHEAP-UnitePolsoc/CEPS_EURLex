@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Except:
+!.gitignore
+!eurlex_analysis.R
+!eurlex_management.R
+!eurlex_reduced.R
+!wordcloud_eurlex.pdf
+!eurlex_legisshares.pdf
